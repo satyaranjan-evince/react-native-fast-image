@@ -107,10 +107,11 @@ class FastImageViewConverter {
         }
 
         RequestOptions options = new RequestOptions()
-            .diskCacheStrategy(diskCacheStrategy)
+             .diskCacheStrategy(DiskCacheStrategy.ALL)
             .onlyRetrieveFromCache(onlyFromCache)
             .skipMemoryCache(skipMemoryCache)
             .priority(priority)
+            .override(500,200)
             .placeholder(TRANSPARENT_DRAWABLE);
         
         if (imageSource.isResource()) {
