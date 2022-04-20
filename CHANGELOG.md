@@ -1,3 +1,19 @@
+## [8.5.11](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.10...v8.5.11) (2021-09-27)
+
+
+### Bug Fixes
+
+* null exception in FastImageViewManager.java ([#423](https://github.com/DylanVann/react-native-fast-image/issues/423)) ([a7a8643](https://github.com/DylanVann/react-native-fast-image/commit/a7a8643ed4988f3726a8ac8a0256f4d4ca3feb6f))
+
+## [8.5.10](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.9...v8.5.10) (2021-09-27)
+
+## [8.5.9](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.8...v8.5.9) (2021-09-27)
+
+
+### Bug Fixes
+
+* FastImage extends ViewProps ([#829](https://github.com/DylanVann/react-native-fast-image/issues/829)) ([68db871](https://github.com/DylanVann/react-native-fast-image/commit/68db8712bff865e6b5464b02c956d5198529a2f7)), closes [#819](https://github.com/DylanVann/react-native-fast-image/issues/819)
+
 ## [8.5.8](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.7...v8.5.8) (2021-09-17)
 
 ## [8.5.7](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.6...v8.5.7) (2021-09-17)
